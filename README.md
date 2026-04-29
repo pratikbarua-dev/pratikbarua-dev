@@ -45,7 +45,7 @@
 ### GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Pro-Tik&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=pratikbarua-dev&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pro-Tik&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 ---
