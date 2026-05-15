@@ -45,8 +45,8 @@
 ### GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pratikbarua-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbarua-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://gh-stats.com/api/pratikbarua-dev?theme=onyx&show_icons=false&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://gh-stats.com/api/top-langs/pratikbarua-dev?theme=onyx&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
