@@ -45,8 +45,7 @@
 ### GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pratikbarua-dev&theme=onyx&show_icons=false&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbarua-dev&theme=onyx&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
