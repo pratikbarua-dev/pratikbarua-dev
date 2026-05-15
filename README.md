@@ -47,8 +47,8 @@
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
   <br/>
-  <img src="https://gh-stats.com/api/pratikbarua-dev?widgets=name%2Cimpact" alt="Impact" />
-  <img src="https://gh-stats.com/api/pratikbarua-dev?widgets=name%2Cfocus" alt="Focus" />
+  <img src="https://gh-stats.com/api/pratikbarua-dev?widgets=impact" alt="Impact" />
+  <img src="https://gh-stats.com/api/pratikbarua-dev?widgets=focus" alt="Focus" />
 </div>
 
 ---
